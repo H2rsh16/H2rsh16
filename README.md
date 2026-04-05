@@ -20,9 +20,9 @@
   <a href="#">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
-  
+
   <br><br>
-  
+
   <img src="https://komarev.com/ghpvc/?username=h2rsh16&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
   
 </div>
@@ -31,39 +31,40 @@
 
 <table>
   <tr>
-    <!-- ==================== ABOUT ME ==================== -->
     <td width="50%" valign="top">
-      
       <h2>🧑‍💻 About Me</h2>
       
       <img src="https://img.shields.io/badge/Status-Available%20for%20Opportunities-brightgreen?style=for-the-badge"/>
       
       <br><br>
       
-      <p>👤 <strong>Name:</strong> Harsh</p>
-      <p>💼 <strong>Role:</strong> Software Developer</p>
-      <p>📅 <strong>Experience:</strong> 2+ Years</p>
-      <p>📍 <strong>Location:</strong> India 🇮🇳</p>
-      <p>📧 <strong>Email:</strong> harsh@example.com</p>
-      <p>🎯 <strong>Focus:</strong> Scalable Web Apps</p>
+      👤 **Name:** Harsh
+      
+      💼 **Role:** Software Developer
+      
+      📅 **Experience:** 2+ Years
+      
+      📍 **Location:** India 🇮🇳
+      
+      📧 **Email:** harsh@example.com
+      
+      🎯 **Focus:** Scalable Web Apps
       
       <br>
       
       <h3>🏢 Specialization</h3>
       
-      <p>• Enterprise Web Applications</p>
-      <p>• Cross-Platform Mobile Apps</p>
-      <p>• RESTful API Development</p>
-      <p>• Database Architecture</p>
-      
-      <br>
+      - Enterprise Web Applications
+      - Cross-Platform Mobile Apps
+      - RESTful API Development
+      - Database Architecture
       
       <h3>🌟 Highlights</h3>
       
-      <p>✅ 10+ Production Apps Delivered</p>
-      <p>✅ Full Stack Expertise</p>
-      <p>✅ Cloud & DevOps Knowledge</p>
-      <p>✅ Open Source Contributor</p>
+      - ✅ 10+ Production Apps Delivered
+      - ✅ Full Stack Expertise
+      - ✅ Cloud & DevOps Knowledge
+      - ✅ Open Source Contributor
       
       <br>
       
@@ -71,9 +72,7 @@
       
     </td>
     
-    <!-- ==================== SKILLS ==================== -->
     <td width="50%" valign="top">
-      
       <h2>🛠️ Skills & Technologies</h2>
       
       <h3>🔤 Languages</h3>
