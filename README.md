@@ -20,161 +20,113 @@
   <a href="#">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
+
+  <img src="https://komarev.com/ghpvc/?username=h2rsh16&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
+  
   
 </div>
 
 <hr>
 
-
-<h2>🧑‍💻 About Me & Professional Summary</h2>
-
 <table>
   <tr>
     <td width="50%" valign="top">
-      <pre>
-name: Harsh
-role: Software Developer
-experience: 2+ Years
-location: India 🇮🇳
-currently_working_on: Scalable Web Applications
-
-expertise:
-  - Full Stack Development
-  - Mobile App Development
-  - Cloud Architecture
-  - System Design
-
-daily_routine:
-  - ☕ Coffee
-  - 💻 Code
-  - 🔄 Repeat
-      </pre>
-    </td>
-    <td width="50%" valign="top">
+      <h2>🧑‍💻 About Me</h2>
+      
       <img src="https://img.shields.io/badge/Status-Available%20for%20Opportunities-brightgreen?style=for-the-badge"/>
+      
       <br><br>
-      🎯 <strong>Current Role:</strong> Software Developer
-      <br><br>
-      📅 <strong>Experience:</strong> 2+ Years in Industry
-      <br><br>
-      🏢 <strong>Specialization:</strong>
+      
+      <table>
+        <tr>
+          <td>👤</td>
+          <td><strong>Name:</strong></td>
+          <td>Harsh</td>
+        </tr>
+        <tr>
+          <td>💼</td>
+          <td><strong>Role:</strong></td>
+          <td>Software Developer</td>
+        </tr>
+        <tr>
+          <td>📅</td>
+          <td><strong>Experience:</strong></td>
+          <td>2+ Years</td>
+        </tr>
+        <tr>
+          <td>📍</td>
+          <td><strong>Location:</strong></td>
+          <td>India 🇮🇳</td>
+        </tr>
+        <tr>
+          <td>📧</td>
+          <td><strong>Email:</strong></td>
+          <td>harsh@example.com</td>
+        </tr>
+        <tr>
+          <td>🎯</td>
+          <td><strong>Focus:</strong></td>
+          <td>Scalable Web Apps</td>
+        </tr>
+      </table>
+      
+      <br>
+      
+      <h3>🏢 Specialization</h3>
       <ul>
         <li>Enterprise Web Applications</li>
         <li>Cross-Platform Mobile Apps</li>
         <li>RESTful API Development</li>
         <li>Database Architecture</li>
       </ul>
-      🌟 <strong>Highlight:</strong> Delivered 10+ production-ready applications
+      
+      <h3>🌟 Highlights</h3>
+      <ul>
+        <li>✅ 10+ Production Apps Delivered</li>
+        <li>✅ Full Stack Expertise</li>
+        <li>✅ Cloud & DevOps Knowledge</li>
+        <li>✅ Open Source Contributor</li>
+      </ul>
+      
+      <br>
+      
+      <img src="https://img.shields.io/badge/Open%20to-Remote%20Work-00C853?style=for-the-badge"/>
+      
     </td>
-  </tr>
-</table>
-
-<hr>
-
-
-<h2 align="center">🛠️ Technology Arsenal</h2>
-
-<table>
-  <tr>
-    <td align="center" width="50%" valign="top">
+    
+    <td width="50%" valign="top">
+      <h2>🛠️ Skills & Technologies</h2>
+      
       <h3>🔤 Languages</h3>
-      <br>
-      <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,kotlin,cpp&perline=3" />
-      <br><br>
-    </td>
-    <td align="center" width="50%" valign="top">
-      <h3>🎨 Frontend</h3>
-      <br>
-      <img src="https://skillicons.dev/icons?i=react,vue,nextjs,html,css,tailwind&perline=3" />
-      <br><br>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%" valign="top">
-      <h3>⚙️ Backend & Database</h3>
-      <br>
-      <img src="https://skillicons.dev/icons?i=nodejs,express,django,spring,mysql,mongodb&perline=3" />
-      <br><br>
-    </td>
-    <td align="center" width="50%" valign="top">
-      <h3>🔧 Tools & DevOps</h3>
-      <br>
-      <img src="https://skillicons.dev/icons?i=git,github,docker,aws,linux,vscode&perline=3" />
-      <br><br>
-    </td>
-  </tr>
-</table>
-
-<hr>
-
-
-<h2 align="center">🚀 Current Activities & Contact</h2>
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🎯 What I'm Up To</h3>
-      <table>
-        <tr>
-          <td align="center">🔭</td>
-          <td>Working on <strong>Enterprise SaaS Products</strong></td>
-        </tr>
-        <tr>
-          <td align="center">🌱</td>
-          <td>Learning <strong>System Design & Cloud Architecture</strong></td>
-        </tr>
-        <tr>
-          <td align="center">👯</td>
-          <td>Open to <strong>Collaborate on Open Source</strong></td>
-        </tr>
-        <tr>
-          <td align="center">💬</td>
-          <td>Ask me about <strong>React, Node.js, Spring Boot</strong></td>
-        </tr>
-        <tr>
-          <td align="center">⚡</td>
-          <td>Fun fact: <strong>I debug with console.log</strong> 😄</td>
-        </tr>
-      </table>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📫 Let's Connect</h3>
-      <pre>
-const harsh = {
-  email: "harsh@example.com",
-  linkedin: "harshoval",
-  instagram: "harshhhhhh_1",
-  availability: "Open to Work",
-  response_time: "< 24 hours"
-};
-      </pre>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Open%20to-Remote%20Work-00C853?style=for-the-badge"/>
+      <p>
+        <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,kotlin,cpp&perline=6" />
       </p>
-    </td>
-  </tr>
-</table>
-
-<hr>
-
-
-<h2 align="center">💭 Developer Philosophy</h2>
-
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <br>
-      <em>"Code is like humor. When you have to explain it, it's bad."</em>
-      <br><br>
-      <strong>— Cory House</strong>
-      <br><br>
-    </td>
-    <td align="center" width="50%">
-      <br>
-      <em>"First, solve the problem. Then, write the code."</em>
-      <br><br>
-      <strong>— John Johnson</strong>
-      <br><br>
+      
+      <h3>🎨 Frontend</h3>
+      <p>
+        <img src="https://skillicons.dev/icons?i=react,vue,nextjs,html,css,tailwind&perline=6" />
+      </p>
+      
+      <h3>⚙️ Backend</h3>
+      <p>
+        <img src="https://skillicons.dev/icons?i=nodejs,express,django,spring,graphql,nginx&perline=6" />
+      </p>
+      
+      <h3>🗄️ Database</h3>
+      <p>
+        <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,firebase,redis&perline=5" />
+      </p>
+      
+      <h3>📱 Mobile</h3>
+      <p>
+        <img src="https://skillicons.dev/icons?i=flutter,react,kotlin&perline=3" />
+      </p>
+      
+      <h3>🔧 Tools & DevOps</h3>
+      <p>
+        <img src="https://skillicons.dev/icons?i=git,github,docker,aws,linux,vscode&perline=6" />
+      </p>
+      
     </td>
   </tr>
 </table>
@@ -188,7 +140,6 @@ const harsh = {
   
   <br>
   
-  <img src="https://komarev.com/ghpvc/?username=h2rsh16&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
   
   <br><br>
   
