@@ -31,7 +31,7 @@
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
 <h2>🧑‍💻 About Me</h2>
 <img src="https://img.shields.io/badge/Status-Available%20for%20Opportunities-brightgreen?style=for-the-badge"/>
 <br><br>
@@ -59,7 +59,7 @@
 <br>
 <img src="https://img.shields.io/badge/Open%20to-Remote%20Work-00C853?style=for-the-badge"/>
     </td>
-    <td width="50%" valign="top">
+    <td width="34%" valign="top">
 <h2>🛠️ Skills & Technologies</h2>
 <h3>🔤 Languages</h3>
 <p>
@@ -81,10 +81,50 @@
 <p>
 <img src="https://skillicons.dev/icons?i=flutter,react,kotlin&perline=3" />
 </p>
-<h3>🔧 Tools & DevOps</h3>
+<h3>☁️ Cloud & DevOps</h3>
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,aws,linux,vscode&perline=6" />
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,linux,git&perline=6" />
 </p>
+<h3>🔧 Tools</h3>
+<p>
+<img src="https://skillicons.dev/icons?i=github,vscode,postman,figma&perline=4" />
+</p>
+    </td>
+    <td width="33%" valign="top">
+<h2>🏆 Achievements</h2>
+<img src="https://img.shields.io/badge/Competitive-Coder-FFD700?style=for-the-badge"/>
+<br><br>
+<h3>💻 LeetCode</h3>
+<p>
+<img src="https://img.shields.io/badge/Problems%20Solved-300+-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</p>
+<h3>🎯 HackerRank Badges</h3>
+<p>
+<img src="https://img.shields.io/badge/Java-⭐⭐⭐⭐⭐-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</p>
+<p>
+<img src="https://img.shields.io/badge/Python-⭐⭐⭐⭐⭐-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</p>
+<p>
+<img src="https://img.shields.io/badge/SQL-⭐⭐⭐⭐⭐-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</p>
+<p>
+<img src="https://img.shields.io/badge/React-⭐⭐⭐⭐⭐-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</p>
+<h3>🚀 Hackathons</h3>
+<p>
+<img src="https://img.shields.io/badge/Wisen-Hackathon%20Participant-8B5CF6?style=for-the-badge&logo=hackthebox&logoColor=white"/>
+</p>
+<br>
+<h3>📊 Coding Stats</h3>
+<ul>
+<li>🔥 Active Problem Solver</li>
+<li>🏅 Multiple Certifications</li>
+<li>📈 Consistent Learner</li>
+<li>🤝 Team Collaborator</li>
+</ul>
+<br>
+<img src="https://img.shields.io/badge/Always-Learning-00C853?style=for-the-badge"/>
     </td>
   </tr>
 </table>
