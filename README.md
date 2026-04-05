@@ -1,6 +1,6 @@
 <div align="center">
   
-  <h1>⚡ HARSH ⚡</h1>
+  <h1>⚡ <code>HARSH</code> ⚡</h1>
   
   <h3><code>Software Developer</code> • <code>2+ Years Experience</code> • <code>Building Digital Experiences</code></h3>
   
@@ -20,9 +20,10 @@
   <a href="#">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
-
-  <img src="https://komarev.com/ghpvc/?username=h2rsh16&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
   
+  <br><br>
+  
+  <img src="https://komarev.com/ghpvc/?username=h2rsh16&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
   
 </div>
 
@@ -30,63 +31,39 @@
 
 <table>
   <tr>
+    <!-- ==================== ABOUT ME ==================== -->
     <td width="50%" valign="top">
+      
       <h2>🧑‍💻 About Me</h2>
       
       <img src="https://img.shields.io/badge/Status-Available%20for%20Opportunities-brightgreen?style=for-the-badge"/>
       
       <br><br>
       
-      <table>
-        <tr>
-          <td>👤</td>
-          <td><strong>Name:</strong></td>
-          <td>Harsh</td>
-        </tr>
-        <tr>
-          <td>💼</td>
-          <td><strong>Role:</strong></td>
-          <td>Software Developer</td>
-        </tr>
-        <tr>
-          <td>📅</td>
-          <td><strong>Experience:</strong></td>
-          <td>2+ Years</td>
-        </tr>
-        <tr>
-          <td>📍</td>
-          <td><strong>Location:</strong></td>
-          <td>India 🇮🇳</td>
-        </tr>
-        <tr>
-          <td>📧</td>
-          <td><strong>Email:</strong></td>
-          <td>harsh@example.com</td>
-        </tr>
-        <tr>
-          <td>🎯</td>
-          <td><strong>Focus:</strong></td>
-          <td>Scalable Web Apps</td>
-        </tr>
-      </table>
+      <p>👤 <strong>Name:</strong> Harsh</p>
+      <p>💼 <strong>Role:</strong> Software Developer</p>
+      <p>📅 <strong>Experience:</strong> 2+ Years</p>
+      <p>📍 <strong>Location:</strong> India 🇮🇳</p>
+      <p>📧 <strong>Email:</strong> harsh@example.com</p>
+      <p>🎯 <strong>Focus:</strong> Scalable Web Apps</p>
       
       <br>
       
       <h3>🏢 Specialization</h3>
-      <ul>
-        <li>Enterprise Web Applications</li>
-        <li>Cross-Platform Mobile Apps</li>
-        <li>RESTful API Development</li>
-        <li>Database Architecture</li>
-      </ul>
+      
+      <p>• Enterprise Web Applications</p>
+      <p>• Cross-Platform Mobile Apps</p>
+      <p>• RESTful API Development</p>
+      <p>• Database Architecture</p>
+      
+      <br>
       
       <h3>🌟 Highlights</h3>
-      <ul>
-        <li>✅ 10+ Production Apps Delivered</li>
-        <li>✅ Full Stack Expertise</li>
-        <li>✅ Cloud & DevOps Knowledge</li>
-        <li>✅ Open Source Contributor</li>
-      </ul>
+      
+      <p>✅ 10+ Production Apps Delivered</p>
+      <p>✅ Full Stack Expertise</p>
+      <p>✅ Cloud & DevOps Knowledge</p>
+      <p>✅ Open Source Contributor</p>
       
       <br>
       
@@ -94,7 +71,9 @@
       
     </td>
     
+    <!-- ==================== SKILLS ==================== -->
     <td width="50%" valign="top">
+      
       <h2>🛠️ Skills & Technologies</h2>
       
       <h3>🔤 Languages</h3>
@@ -133,15 +112,11 @@
 
 <hr>
 
-
 <div align="center">
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20Visiting!&fontSize=32&fontColor=fff&animation=twinkling&fontAlignY=65"/>
   
   <br>
-  
-  
-  <br><br>
   
   <strong>💖 If you like my work, consider giving a ⭐</strong>
   
