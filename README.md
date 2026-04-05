@@ -38,33 +38,30 @@
       
       <br><br>
       
-      👤 **Name:** Harsh
-      
-      💼 **Role:** Software Developer
-      
-      📅 **Experience:** 2+ Years
-      
-      📍 **Location:** India 🇮🇳
-      
-      📧 **Email:** harsh@example.com
-      
-      🎯 **Focus:** Scalable Web Apps
+      <p>👤 <b>Name:</b> Harsh</p>
+      <p>💼 <b>Role:</b> Software Developer</p>
+      <p>📅 <b>Experience:</b> 2+ Years</p>
+      <p>📍 <b>Location:</b> India 🇮🇳</p>
+      <p>📧 <b>Email:</b> harsh@example.com</p>
+      <p>🎯 <b>Focus:</b> Scalable Web Apps</p>
       
       <br>
       
       <h3>🏢 Specialization</h3>
-      
-      - Enterprise Web Applications
-      - Cross-Platform Mobile Apps
-      - RESTful API Development
-      - Database Architecture
+      <ul>
+        <li>Enterprise Web Applications</li>
+        <li>Cross-Platform Mobile Apps</li>
+        <li>RESTful API Development</li>
+        <li>Database Architecture</li>
+      </ul>
       
       <h3>🌟 Highlights</h3>
-      
-      - ✅ 10+ Production Apps Delivered
-      - ✅ Full Stack Expertise
-      - ✅ Cloud & DevOps Knowledge
-      - ✅ Open Source Contributor
+      <ul>
+        <li>✅ 10+ Production Apps Delivered</li>
+        <li>✅ Full Stack Expertise</li>
+        <li>✅ Cloud & DevOps Knowledge</li>
+        <li>✅ Open Source Contributor</li>
+      </ul>
       
       <br>
       
