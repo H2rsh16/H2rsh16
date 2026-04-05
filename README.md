@@ -32,79 +32,63 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h2>🧑‍💻 About Me</h2>
-      
-      <img src="https://img.shields.io/badge/Status-Available%20for%20Opportunities-brightgreen?style=for-the-badge"/>
-      
-      <br><br>
-      
-      <p>👤 <b>Name:</b> Harsh</p>
-      <p>💼 <b>Role:</b> Software Developer</p>
-      <p>📅 <b>Experience:</b> 2+ Years</p>
-      <p>📍 <b>Location:</b> India 🇮🇳</p>
-      <p>📧 <b>Email:</b> harsh@example.com</p>
-      <p>🎯 <b>Focus:</b> Scalable Web Apps</p>
-      
-      <br>
-      
-      <h3>🏢 Specialization</h3>
-      <ul>
-        <li>Enterprise Web Applications</li>
-        <li>Cross-Platform Mobile Apps</li>
-        <li>RESTful API Development</li>
-        <li>Database Architecture</li>
-      </ul>
-      
-      <h3>🌟 Highlights</h3>
-      <ul>
-        <li>✅ 10+ Production Apps Delivered</li>
-        <li>✅ Full Stack Expertise</li>
-        <li>✅ Cloud & DevOps Knowledge</li>
-        <li>✅ Open Source Contributor</li>
-      </ul>
-      
-      <br>
-      
-      <img src="https://img.shields.io/badge/Open%20to-Remote%20Work-00C853?style=for-the-badge"/>
-      
+<h2>🧑‍💻 About Me</h2>
+<img src="https://img.shields.io/badge/Status-Available%20for%20Opportunities-brightgreen?style=for-the-badge"/>
+<br><br>
+<p>👤 <b>Name:</b> Harsh</p>
+<p>💼 <b>Role:</b> Software Developer</p>
+<p>📅 <b>Experience:</b> 2+ Years</p>
+<p>📍 <b>Location:</b> India 🇮🇳</p>
+<p>📧 <b>Email:</b> harshoval2002@gmail.com</p>
+<p>🎯 <b>Focus:</b> Scalable Web Apps</p>
+<br>
+<h3>🏢 Specialization</h3>
+<ul>
+<li>Enterprise Web Applications</li>
+<li>Cross-Platform Mobile Apps</li>
+<li>RESTful API Development</li>
+<li>Database Architecture</li>
+</ul>
+<h3>🌟 Highlights</h3>
+<ul>
+<li>✅ 10+ Production Apps Delivered</li>
+<li>✅ Full Stack Expertise</li>
+<li>✅ Cloud & DevOps Knowledge</li>
+<li>✅ Open Source Contributor</li>
+</ul>
+<br>
+<img src="https://img.shields.io/badge/Open%20to-Remote%20Work-00C853?style=for-the-badge"/>
     </td>
-    
     <td width="50%" valign="top">
-      <h2>🛠️ Skills & Technologies</h2>
-      
-      <h3>🔤 Languages</h3>
-      <p>
-        <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,kotlin,cpp&perline=6" />
-      </p>
-      
-      <h3>🎨 Frontend</h3>
-      <p>
-        <img src="https://skillicons.dev/icons?i=react,vue,nextjs,html,css,tailwind&perline=6" />
-      </p>
-      
-      <h3>⚙️ Backend</h3>
-      <p>
-        <img src="https://skillicons.dev/icons?i=nodejs,express,django,spring,graphql,nginx&perline=6" />
-      </p>
-      
-      <h3>🗄️ Database</h3>
-      <p>
-        <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,firebase,redis&perline=5" />
-      </p>
-      
-      <h3>📱 Mobile</h3>
-      <p>
-        <img src="https://skillicons.dev/icons?i=flutter,react,kotlin&perline=3" />
-      </p>
-      
-      <h3>🔧 Tools & DevOps</h3>
-      <p>
-        <img src="https://skillicons.dev/icons?i=git,github,docker,aws,linux,vscode&perline=6" />
-      </p>
-      
+<h2>🛠️ Skills & Technologies</h2>
+<h3>🔤 Languages</h3>
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,kotlin,cpp&perline=6" />
+</p>
+<h3>🎨 Frontend</h3>
+<p>
+<img src="https://skillicons.dev/icons?i=react,vue,nextjs,html,css,tailwind&perline=6" />
+</p>
+<h3>⚙️ Backend</h3>
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,spring,graphql,nginx&perline=6" />
+</p>
+<h3>🗄️ Database</h3>
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,firebase,redis&perline=5" />
+</p>
+<h3>📱 Mobile</h3>
+<p>
+<img src="https://skillicons.dev/icons?i=flutter,react,kotlin&perline=3" />
+</p>
+<h3>🔧 Tools & DevOps</h3>
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,aws,linux,vscode&perline=6" />
+</p>
     </td>
   </tr>
 </table>
+
 
 <hr>
 
