@@ -57,7 +57,12 @@
 <li>✅ Open Source Contributor</li>
 </ul>
 <br>
-<img src="https://img.shields.io/badge/Open%20to-Remote%20Work-00C853?style=for-the-badge"/>
+<h3>💼 Open to Work</h3>
+<p>
+<img src="https://img.shields.io/badge/🏠-Remote-00C853?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🏢-On--Site-0077B5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🔄-Hybrid-FF9800?style=for-the-badge"/>
+</p>
     </td>
     <td width="34%" valign="top">
 <h2>🛠️ Skills & Technologies</h2>
