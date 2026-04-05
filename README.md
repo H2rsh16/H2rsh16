@@ -2,7 +2,7 @@
   
   <h1>⚡ <code>HARSH</code> ⚡</h1>
   
-  <h3><code>Software Developer</code> • <code>2+ Years Experience</code> • <code>Building Digital Experiences</code></h3>
+  <h3><code>Software Developer</code> • <code>Building Digital Experiences</code></h3>
   
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=%F0%9F%92%BC+Professional+Software+Developer;%F0%9F%8C%90+Full+Stack+Web+%26+Mobile+Expert;%E2%98%81%EF%B8%8F+Cloud+%26+System+Design+Enthusiast;%F0%9F%9A%80+2%2B+Years+of+Shipping+Products" alt="Typing SVG" />
   
