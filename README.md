@@ -139,8 +139,15 @@
 
 <div align="center">
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20Visiting!&fontSize=32&fontColor=fff&animation=twinkling&fontAlignY=65"/>
+<div align="center">
   
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=%3Ccode%3EThanks%20for%20Visiting!%3C/code%3E&fontSize=32&fontColor=fff&animation=twinkling&fontAlignY=65"/>
+  
+  <br>
+  
+  <strong>💖 If you like my work, consider giving a ⭐</strong>
+  
+</div>
   <br>
   
   <strong>💖 <code>If you like my work, consider giving a</code> ⭐</strong>
