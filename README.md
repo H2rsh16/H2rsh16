@@ -145,11 +145,6 @@
   
   <br>
   
-  <strong>💖 If you like my work, consider giving a ⭐</strong>
-  
-</div>
-  <br>
-  
   <strong>💖 <code>If you like my work, consider giving a</code> ⭐</strong>
   
 </div>
