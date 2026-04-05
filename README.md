@@ -141,7 +141,7 @@
   
 <div align="center">
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=%3Ccode%3EThanks%20for%20Visiting!%3C/code%3E&fontSize=32&fontColor=fff&animation=twinkling&fontAlignY=65"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20Visiting!&fontSize=32&fontColor=fff&animation=twinkling&fontAlignY=65"/>
   
   <br>
   
