@@ -40,7 +40,7 @@
 <p>📅 <b>Experience:</b> 2+ Years</p>
 <p>📍 <b>Location:</b> India 🇮🇳</p>
 <p>📧 <b>Email:</b> harshoval2002@gmail.com</p>
-<p>🎯 <b>Focus:</b> Scalable Web Apps</p>
+<p>🎯 <b>Focus:</b> Just Improve!!</p>
 <br>
 <h3>🏢 Specialization</h3>
 <ul>
