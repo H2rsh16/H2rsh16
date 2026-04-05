@@ -17,7 +17,7 @@
   <a href="https://leetcode.com/harshhhhhh_1">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
-  <a href="#">
+  <a href="https://h2rsh16.github.io/Personal-Portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
 
