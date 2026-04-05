@@ -17,6 +17,9 @@
   <a href="https://leetcode.com/harshhhhhh_1">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
+  <a href="https://www.hackerrank.com/profile/harshoval2002">
+    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
+  </a>
   <a href="https://h2rsh16.github.io/Personal-Portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
@@ -134,11 +137,8 @@
   </tr>
 </table>
 
-
 <hr>
 
-<div align="center">
-  
 <div align="center">
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20Visiting!&fontSize=32&fontColor=fff&animation=twinkling&fontAlignY=65"/>
