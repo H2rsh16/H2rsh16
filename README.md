@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./profile-banner.svg" width="1200" alt="HARSH OVHAL - Software Developer">
+<!-- <img src="./profile-banner.svg" width="1200" alt="HARSH OVHAL - Software Developer"> -->
 
 <!-- <a href="https://github.com/h2rsh16"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=640&height=30&lines=Software+Developer;Enterprise+Web+%26+Cross-Platform+Mobile+Apps;Backend+%C2%B7+Databases+%C2%B7+Cloud;Always+learning%2C+always+improving" alt="typing"></a> -->
 
