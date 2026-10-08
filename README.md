@@ -44,14 +44,14 @@
 ## Skills &amp; Technologies
 <table>
 <tr>
-<td width="33%" valign="top" align="center"><b>Languages</b><br><br><img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,kotlin,cpp&perline=6&theme=dark#gh-dark-mode-only"><img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,kotlin,cpp&perline=6&theme=light#gh-light-mode-only"></td>
+<td width="33%" valign="top" align="center"><b>Languages</b><br><br><img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,kotlin,cpp&perline=6&theme=dark#gh-dark-mode-only"></td>
 <td width="33%" valign="top" align="center"><b>Frontend</b><br><br><img src="https://skillicons.dev/icons?i=react,vue,nextjs,html,css,tailwind&perline=6&theme=dark#gh-dark-mode-only"><img src="https://skillicons.dev/icons?i=react,vue,nextjs,html,css,tailwind&perline=6&theme=light#gh-light-mode-only"></td>
-<td width="33%" valign="top" align="center"><b>Backend</b><br><br><img src="https://skillicons.dev/icons?i=nodejs,express,django,spring,graphql,nginx&perline=6&theme=dark#gh-dark-mode-only"><img src="https://skillicons.dev/icons?i=nodejs,express,django,spring,graphql,nginx&perline=6&theme=light#gh-light-mode-only"></td>
+<td width="33%" valign="top" align="center"><b>Backend</b><br><br></td>
 </tr>
 <tr>
-<td width="33%" valign="top" align="center"><b>Database</b><br><br><img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,firebase,redis&perline=6&theme=dark#gh-dark-mode-only"><img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,firebase,redis&perline=6&theme=light#gh-light-mode-only"></td>
-<td width="33%" valign="top" align="center"><b>Mobile &amp; Tools</b><br><br><img src="https://skillicons.dev/icons?i=flutter,kotlin,github,vscode,postman,figma&perline=6&theme=dark#gh-dark-mode-only"><img src="https://skillicons.dev/icons?i=flutter,kotlin,github,vscode,postman,figma&perline=6&theme=light#gh-light-mode-only"></td>
-<td width="33%" valign="top" align="center"><b>Cloud &amp; DevOps</b><br><br><img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,linux,git&perline=6&theme=dark#gh-dark-mode-only"><img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,linux,git&perline=6&theme=light#gh-light-mode-only"></td>
+<td width="33%" valign="top" align="center"><b>Database</b><br><br><img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,firebase,redis&perline=6&theme=dark#gh-dark-mode-only"></td>
+<td width="33%" valign="top" align="center"><b>Mobile &amp; Tools</b><br><br><img src="https://skillicons.dev/icons?i=flutter,kotlin,github,vscode,postman,figma&perline=6&theme=dark#gh-dark-mode-only"></td>
+<td width="33%" valign="top" align="center"><b>Cloud &amp; DevOps</b><br><br><img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,linux,git&perline=6&theme=dark#gh-dark-mode-only"></td>
 </tr>
 </table>
 
