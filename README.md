@@ -2,7 +2,7 @@
 
 <img src="./profile-banner.svg" width="1200" alt="HARSH OVHAL - Software Developer">
 
-<a href="https://github.com/h2rsh16"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=640&height=30&lines=Software+Developer;Enterprise+Web+%26+Cross-Platform+Mobile+Apps;Backend+%C2%B7+Databases+%C2%B7+Cloud;Always+learning%2C+always+improving" alt="typing"></a>
+<!-- <a href="https://github.com/h2rsh16"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=640&height=30&lines=Software+Developer;Enterprise+Web+%26+Cross-Platform+Mobile+Apps;Backend+%C2%B7+Databases+%C2%B7+Cloud;Always+learning%2C+always+improving" alt="typing"></a> -->
 
 <a href="https://linkedin.com/in/harshoval"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"></a>
 <a href="https://leetcode.com/harshhhhhh_1"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black"></a>
