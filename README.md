@@ -55,10 +55,6 @@
 </tr>
 </table>
 
-
-in this showing duplicate icons check why show only one 
-
-ne thing can i show it danyamically like if theam is dark of system will show light and if theam is light will show dark can we do this
 ## Achievements
 <div align="center">
 
