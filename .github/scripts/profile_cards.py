@@ -26,7 +26,7 @@ query($login:String!){
     followers{totalCount}
     pullRequests{totalCount}
     issues{totalCount}
-    repositories(ownerAffiliation:OWNER,isFork:false,first:100){
+    repositories(ownerAffiliations:OWNER,isFork:false,first:100){
       totalCount
       nodes{ stargazerCount
         languages(first:6,orderBy:{field:SIZE,direction:DESC}){edges{size node{name color}}}}
