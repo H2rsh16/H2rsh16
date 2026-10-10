@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="850" height="215" viewBox="0 0 850 215" fill="none" role="img">
+<style>
+text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans",Helvetica,Arial,sans-serif}
+
+@keyframes rise{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:translateY(0)}}
+@keyframes grow{from{transform:scaleX(0)}to{transform:scaleX(1)}}
+.tile{animation:rise .6s ease-out both}
+.bar{transform-origin:24px 0;animation:grow 1.4s cubic-bezier(.2,.8,.2,1) .5s both}
+
+</style>
+<rect x=".5" y=".5" width="849" height="214" rx="10" fill="#f6f8fa" stroke="#d0d7de"/>
+<text x="24" y="34" font-size="15" font-weight="600" fill="#1f2328">Progress</text>
+<text x="826" y="34" font-size="13" text-anchor="end" fill="#656d76">13 repositories</text>
+<g class="tile" style="animation-delay:0.00s"><rect x="24.0" y="52" width="123.7" height="76" rx="8" fill="#ffffff" stroke="#d0d7de"/><rect x="36.0" y="52" width="26" height="3" rx="1.5" fill="#0969da"/><text x="38.0" y="76" font-size="11.5" fill="#656d76">Contributions</text><text x="38.0" y="103" font-size="24" font-weight="700" fill="#1f2328">3,277</text><text x="38.0" y="120" font-size="10.5" fill="#656d76">last year</text></g>
+<g class="tile" style="animation-delay:0.08s"><rect x="159.7" y="52" width="123.7" height="76" rx="8" fill="#ffffff" stroke="#d0d7de"/><rect x="171.7" y="52" width="26" height="3" rx="1.5" fill="#0969da"/><text x="173.7" y="76" font-size="11.5" fill="#656d76">Commits</text><text x="173.7" y="103" font-size="24" font-weight="700" fill="#1f2328">487</text><text x="173.7" y="120" font-size="10.5" fill="#656d76">last year</text></g>
+<g class="tile" style="animation-delay:0.16s"><rect x="295.3" y="52" width="123.7" height="76" rx="8" fill="#ffffff" stroke="#d0d7de"/><rect x="307.3" y="52" width="26" height="3" rx="1.5" fill="#0969da"/><text x="309.3" y="76" font-size="11.5" fill="#656d76">Pull Requests</text><text x="309.3" y="103" font-size="24" font-weight="700" fill="#1f2328">0</text><text x="309.3" y="120" font-size="10.5" fill="#656d76">all time</text></g>
+<g class="tile" style="animation-delay:0.24s"><rect x="431.0" y="52" width="123.7" height="76" rx="8" fill="#ffffff" stroke="#d0d7de"/><rect x="443.0" y="52" width="26" height="3" rx="1.5" fill="#0969da"/><text x="445.0" y="76" font-size="11.5" fill="#656d76">Stars</text><text x="445.0" y="103" font-size="24" font-weight="700" fill="#1f2328">1</text><text x="445.0" y="120" font-size="10.5" fill="#656d76">earned</text></g>
+<g class="tile" style="animation-delay:0.32s"><rect x="566.7" y="52" width="123.7" height="76" rx="8" fill="#ffffff" stroke="#d0d7de"/><rect x="578.7" y="52" width="26" height="3" rx="1.5" fill="#0969da"/><text x="580.7" y="76" font-size="11.5" fill="#656d76">Followers</text><text x="580.7" y="103" font-size="24" font-weight="700" fill="#1f2328">2</text><text x="580.7" y="120" font-size="10.5" fill="#656d76">on GitHub</text></g>
+<g class="tile" style="animation-delay:0.40s"><rect x="702.3" y="52" width="123.7" height="76" rx="8" fill="#ffffff" stroke="#d0d7de"/><rect x="714.3" y="52" width="26" height="3" rx="1.5" fill="#0969da"/><text x="716.3" y="76" font-size="11.5" fill="#656d76">Streak</text><text x="716.3" y="103" font-size="24" font-weight="700" fill="#1f2328">34d</text><text x="716.3" y="120" font-size="10.5" fill="#656d76">longest 42d</text></g>
+<text x="24" y="156" font-size="12" font-weight="600" fill="#1f2328">Top languages</text>
+<clipPath id="c"><rect x="24" y="164" width="802" height="8" rx="4"/></clipPath>
+<rect x="24" y="164" width="802" height="8" rx="4" fill="#d8dee4"/>
+<g class="bar" clip-path="url(#c)">
+<rect x="24.0" y="164" width="304.2" height="8" fill="#b07219"/>
+<rect x="329.7" y="164" width="163.9" height="8" fill="#f1e05a"/>
+<rect x="495.1" y="164" width="152.0" height="8" fill="#e34c26"/>
+<rect x="648.7" y="164" width="82.8" height="8" fill="#3572A5"/>
+<rect x="733.0" y="164" width="55.8" height="8" fill="#3178c6"/>
+<rect x="790.3" y="164" width="34.2" height="8" fill="#663399"/>
+</g>
+<circle cx="28" cy="193" r="4" fill="#b07219"/><text x="38" y="197" font-size="11.5" fill="#1f2328">Java <tspan fill="#656d76">38.1%</tspan></text>
+<circle cx="130.0" cy="193" r="4" fill="#f1e05a"/><text x="140.0" y="197" font-size="11.5" fill="#1f2328">JavaScript <tspan fill="#656d76">20.6%</tspan></text>
+<circle cx="271.6" cy="193" r="4" fill="#e34c26"/><text x="281.6" y="197" font-size="11.5" fill="#1f2328">HTML <tspan fill="#656d76">19.1%</tspan></text>
+<circle cx="373.6" cy="193" r="4" fill="#3572A5"/><text x="383.6" y="197" font-size="11.5" fill="#1f2328">Python <tspan fill="#656d76">10.5%</tspan></text>
+<circle cx="488.8" cy="193" r="4" fill="#3178c6"/><text x="498.8" y="197" font-size="11.5" fill="#1f2328">TypeScript <tspan fill="#656d76">7.1%</tspan></text>
+<circle cx="623.8" cy="193" r="4" fill="#663399"/><text x="633.8" y="197" font-size="11.5" fill="#1f2328">CSS <tspan fill="#656d76">4.5%</tspan></text>
+</svg>
